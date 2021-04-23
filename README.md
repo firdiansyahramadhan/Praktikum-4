@@ -19,10 +19,8 @@ Tampilan pada web browser!![1 hasil layout sederhana pada web browser](https://u
 Perintah "CSS" untuk membuat layoutnya![2 CSS Awal layout sederhana](https://user-images.githubusercontent.com/81859768/115856092-3cda1500-a456-11eb-9cd1-09b797b2b66a.png)
 Hasil CSS pada web browser! ![2 Hasil CSS awal layout sederhana pada web browser](https://user-images.githubusercontent.com/81859768/115856140-4ebbb800-a456-11eb-8927-95e608933569.png)
 Perintah CSS untuk Membuat "Navigasi"!![3  Perintah CSS Menambahkan Navigasi](https://user-images.githubusercontent.com/81859768/115858473-339e7780-a459-11eb-893a-1c46bfe22f57.png)
-
 Hasil CSS pada web browser!![3  Hasil CSS Navigasi pada web browser](https://user-images.githubusercontent.com/81859768/115856364-993d3480-a456-11eb-8fd8-0f30911c6d98.png)
-Perintah CSS Menambahkan "Hero Panel"!![Uploading 4. Perintah CSS Menmbahkan Hero Panel.png…]()
-
+Perintah CSS Menambahkan "Hero Panel"!!![4  Perintah CSS Menmbahkan Hero Panel](https://user-images.githubusercontent.com/81859768/115858698-7a8c6d00-a459-11eb-92ec-d4415d443388.png)
 Hasil CSS pada web browser! ![4  Hasil CSS Menmbahkan Hero Panel pada web browser](https://user-images.githubusercontent.com/81859768/115856514-cee21d80-a456-11eb-94c0-a5e0f6eadab9.png)
 Perintah HTML menambahkan "Side bar & Widget"![5  Perintah menambahkan side bar widget](https://user-images.githubusercontent.com/81859768/115856951-50d24680-a457-11eb-8c2d-80eb0e146d1b.png)
 Perintah CSS Menambahkan "Footer"![6  perintah CSS menambahkan footer](https://user-images.githubusercontent.com/81859768/115857631-1b7a2880-a458-11eb-91b8-c491536f6349.png)
