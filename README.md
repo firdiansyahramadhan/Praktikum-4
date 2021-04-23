@@ -18,7 +18,7 @@ Perintah HTML untuk membuat Layout ![1 perintah html layout sederhana](https://u
 Tampilan pada web browser!![1 hasil layout sederhana pada web browser](https://user-images.githubusercontent.com/81859768/115856013-1caa5600-a456-11eb-956e-1900ec2f7d71.png)
 Perintah "CSS" untuk membuat layoutnya![2 CSS Awal layout sederhana](https://user-images.githubusercontent.com/81859768/115856092-3cda1500-a456-11eb-9cd1-09b797b2b66a.png)
 Hasil CSS pada web browser! ![2 Hasil CSS awal layout sederhana pada web browser](https://user-images.githubusercontent.com/81859768/115856140-4ebbb800-a456-11eb-8927-95e608933569.png)
-Perintah CSS untuk Membuat "Navigasi"![3  Perintah CSS Menambahkan Navigasi](https://user-images.githubusercontent.com/81859768/115856233-6f840d80-a456-11eb-8721273e4f99848a.png)
+Perintah CSS untuk Membuat "Navigasi"![3  Perintah CSS Menambahkan Navigasi](https://user-images.githubusercontent.com/81859768/115856233-6f840d80-a456-11eb8721273e4f99848a.png)
 Hasil CSS pada web browser!![3  Hasil CSS Navigasi pada web browser](https://user-images.githubusercontent.com/81859768/115856364-993d3480-a456-11eb-8fd8-0f30911c6d98.png)
 Perintah CSS Menambahkan "Hero Panel"![4  Perintah CSS Menmbahkan Hero Panel](https://user-images.githubusercontent.com/81859768/115856458-b6720300-a456-11eb-97266ebab72bb218.png)
 Hasil CSS pada web browser! ![4  Hasil CSS Menmbahkan Hero Panel pada web browser](https://user-images.githubusercontent.com/81859768/115856514-cee21d80-a456-11eb-94c0-a5e0f6eadab9.png)
